@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="facebook.svg"
+   id="svg10"
+   viewBox="0 0 382.32 639.24"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   version="1.1"
+   height="31.0157mm"
+   width="18.5502mm"
+   xml:space="preserve"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg10"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="58.612345"
+   inkscape:cx="28.07346"
+   inkscape:zoom="5.4425394"
+   showgrid="false"
+   id="namedview12"
+   inkscape:window-height="1027"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs4">
+  <style
+   id="style2"
+   type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:14.54;stroke-miterlimit:22.9256}
+    .fil0 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g
+   style="fill:#f2f1ed;fill-opacity:1"
+   id="Vrstva_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   style="fill:#f2f1ed;fill-opacity:1"
+   id="path7"
+   d="M237.24 89.07l96.91 0c22.59,0 40.9,-18.31 40.9,-40.9 0,-22.59 -18.31,-40.9 -40.9,-40.9l-96.91 0c-67.94,0 -123.21,55.27 -123.21,123.21l0 118.82 -65.86 0c-22.59,0 -40.9,18.31 -40.9,40.9 0,22.59 18.31,40.9 40.9,40.9l65.87 -0 0 259.97c0,22.59 18.31,40.9 40.9,40.9 22.59,0 40.9,-18.31 40.9,-40.9l0 -259.97 65.87 0c22.59,0 40.9,-18.31 40.9,-40.9 0,-22.59 -18.31,-40.9 -40.9,-40.9l-65.87 0 0 -118.82c-0.01,-22.83 18.57,-41.41 41.41,-41.41z"
+   class="fil0 str0" />
+ </g>
+</svg>
